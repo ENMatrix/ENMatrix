@@ -1,0 +1,53 @@
+ncode	Short Name	description
+N1	AMP_Low_Limb_Bi	"Amputation of lower limbs, bilateral"
+N2	AMP_Up_Limb_Bi	"Amputation of upper limbs, bilateral"
+N3	AMP_Fing	Amputation of fingers (excluding thumb)
+N4	AMP_Low_Limb_Un	"Amputation of lower limb, unilateral"
+N5	AMP_Up_Limb_Un	"Amputation of upper limb, unilateral"
+N6	AMP_Thumb	Amputation of thumb
+N7	AMP_Toes	Amputation of toe/toes
+N8	BRN_Gen	"Burns, <20% total burned surface area without lower airway burns"
+N9	BRN_Sev	"Burns, >=20% total burned surface area or >= 10% burned surface area if head/neck or hands/wrist involved w/o lower airway burns"
+N10	BRN_Low_Air	Lower airway burns
+N11	DSL_Hip	Dislocation of hip
+N12	DSL_Knee	Dislocation of knee
+N13	DSL_Shoulder	Dislocation of shoulder
+N14	DSL_Less_Msl_Tendon	"Muscle and tendon injuries, including sprains and strains lesser dislocations"
+N15	FRAC_Clav_Scp_Hum	"Fracture of clavicle, scapula, or humerus"
+N16	FRAC_Face	Fracture of face bones
+N17	FRAC_Foot_Ankl	Fracture of foot bones except ankle
+N18	FRAC_Hand	Fracture of hand (wrist and other distal part of hand)
+N19	FRAC_hip	Fracture of hip
+N20	FRAC_Pat_Tib_Fib_Ankl	"Fracture of patella, tibia or fibula, or ankle"
+N21	FRAC_Pelv	Fracture of pelvis
+N22	FRAC_Radius_Ulna	Fracture of radius and/or ulna
+N23	FRAC_Skull	Fracture of skull
+N24	FRAC_Stern_Rib	Fracture of sternum and/or fracture of one or more ribs
+N25	FRAC_Vertebral_Colm	Fracture of vertebral column
+N26	FRAC_Fem_Not_Nek	"Fracture of femur, other than femoral neck"
+N27	TBI_Minor	Minor TBI
+N28	TBI_Mod_Sev	Moderate/Severe TBI
+N30	FBD_Ear	Foreign body in ear
+N31	FBD_Res_Sys	Foreign body in respiratory system
+N32	FBD_GI_Urogenital_Sys	Foreign body in GI and urogenital system
+N33	SPN_Nek_Lvl	Spinal cord lesion at neck level
+N34	SPN_Nek_Blw	Spinal cord lesion below neck level
+N35	Drowning	Drowning and nonfatal submersion
+N36	Asphyxiation	Asphyxiation
+N37	Crush	Crush injury
+N38	Nerve	Nerve injury
+N39	Eye	Injury to eyes
+N40	OPN_Wound	Open wound(s)
+N41	Poisoning 	Poisoning requiring urgent care
+N42	Chest_Sev	Severe chest Injury
+N43	Hemorrhage_Abd_Plvs	Internal hemorrhage in abdomen and pelvis
+N44	Contusion	Contusion in any part of the body
+N45	Environmental_Factors	Effect of different environmental factors
+N46	MED_Complications	Complications following therapeutic procedures
+N47	Superficial	Superficial injury of any part of the body
+N48	MULT_FRAC_DSL	"Multiple fractures, dislocations, crashes, wounds, pains, and strains"
+N51	NAN	NAN
+N52	NAN	NAN
+N53	NAN	NAN
+N54	NAN	NAN
+N99	NAN	NAN
