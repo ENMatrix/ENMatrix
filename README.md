@@ -7,7 +7,7 @@ This repository is based on the "Handling Missing Data with Graph Representation
 This framework can be used to prepare the EN Matrix, in which the probabilities of natural causes of injuries are provided for external causes of injuries. This approach relies on [PyTorch](https://pytorch.org/) and [PyTorch_Geometric](https://rusty1s.github.io/pytorch_geometric/build/html/notes/installation.html) that can be more efficiently used with GPUs.
 
 ## Results
-Experiment results of self-supervised loss (L~D~) with various scale factors Ө~D~. Self-supervised loss (L~D~) was created based on the observation that among certain age groups, NI probabilities are very similar for ECI. This loss is computed using Euclidean of NI probabilities for similar age groups.
+Experiment results of self-supervised loss (L<sub>D</sub>) with various scale factors (Ө<sub>D</sub>). Self-supervised loss (L<sub>D</sub>) was created based on the observation that among certain age groups, NI probabilities are very similar for ECI. This loss is computed using Euclidean of NI probabilities for similar age groups.
 ![Experiment results of self-supervised loss (L~D~) with various scale factors Ө~D~. Self-supervised loss (L~D~) was created based on the observation that among certain age groups, NI probabilities are very similar for ECI. This loss is computed using Euclidean of NI probabilities for similar age groups.](https://github.com/ENMatrix/ENMatrix/blob/main/Self_Supervised_Experiments.png)
 
 Matrix imputation benchmarkin gresults.
